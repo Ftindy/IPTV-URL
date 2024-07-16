@@ -19,7 +19,7 @@
             </svg>
         </a>Ftindy精选
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u</code></code>&nbsp;&nbsp;&nbsp;&nbsp;推荐直播源
+        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code></code>&nbsp;&nbsp;&nbsp;&nbsp;推荐直播源
         </p>
         <p dir="auto"><code>https://live.freetv.top/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
         <p dir="auto"><code>https://live.freetv.top/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
