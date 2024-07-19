@@ -49,7 +49,7 @@ http://192.168.10.1:5678/ysptp.php?id=cgtnru
 http://192.168.10.1:5678/ysptp.php?id=cgtnsp
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",cctv4k
 http://192.168.10.1:5678/ysptp.php?id=cctv4k
-#EXTINF:-1,tvg-id="CCTV4K(1)" tvg-name="CCTV4K(1)" tvg-logo="https://epg.v1.mk/logo/CCTV4K(1).png" group-title="央视",cctv4k16
+#EXTINF:-1,tvg-id="CCTV4K16" tvg-name="CCTV4K16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="央视",cctv4k16
 http://192.168.10.1:5678/ysptp.php?id=cctv4k16
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",cctv8k-hevc+av3a
 http://192.168.10.1:5678/ysptp.php?id=cctv8k_36m
