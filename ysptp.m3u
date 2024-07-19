@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://epg.v1.mk/logo/江苏8K测试.png" group-title="其他",测试源
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1
 http://192.168.10.1:5678/ysptp.php?id=cctv1
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",cctv2
