@@ -47,8 +47,12 @@ http://192.168.10.1:6688/ysptp/cgtnfr.m3u8
 http://192.168.10.1:6688/ysptp/cgtnru.m3u8
 #EXTINF:-1,tvg-id="CGTN1" tvg-name="CGTN1" tvg-logo="https://epg.v1.mk/logo/CGTN1.png" group-title="央视",cgtnsp
 http://192.168.10.1:6688/ysptp/cgtnsp.m3u8
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",cctv4k_10m
+http://192.168.10.1:6688/ysptp/cctv4k_10m.m3u8
 #EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://epg.v1.mk/logo/cctv4k.png" group-title="央视",cctv4k
 http://192.168.10.1:6688/ysptp/cctv4k.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv164k_10m
+http://192.168.10.1:6688/ysptp/cctv4k16_10m.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv164k
 http://192.168.10.1:6688/ysptp/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://epg.v1.mk/logo/cctv8k.png" group-title="央视",cctv8k_36m
