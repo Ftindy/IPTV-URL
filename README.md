@@ -8,7 +8,7 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/primer.css">
 </head>
 <body>
-    <h1>直播/点播工具集合：<a href="https://tools.v1.mk">点击查看</a></h1>
+    <h1>建议直接部署Docker观看数百频道：<a href="https://t.me/feiyangofficalchannel/922">点击查看</a></h1>
     <h1>各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：<a href="https://nfvideo.cc">点击上车</a></h1>
     <h1>各种流媒体账号合租，ChatGPT、绘图AI：<a href="https://universalbus.cc">点击上车</a></h1>
     <h4 dir="auto"><a id="user-content-ftindy" class="anchor" aria-hidden="true" href="#ftindy">
