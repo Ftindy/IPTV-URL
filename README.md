@@ -19,7 +19,7 @@
             </svg>
         </a>Ftindy精选
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code></code>&nbsp;&nbsp;&nbsp;&nbsp;推荐直播源
+        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/gdcucc.m3u</code></code>&nbsp;&nbsp;&nbsp;&nbsp;推荐直播源
         </p>
         <p dir="auto"><code>https://live.freetv.top/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
         <p dir="auto"><code>https://live.freetv.top/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
@@ -27,8 +27,8 @@
         </p>
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili生活
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;精选IPV6源
-<!--        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
+     <!--    <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;精选IPV6源
+       <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG源
         </p>
@@ -37,11 +37,11 @@
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
         </p> 
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
-        </p> -->
+        </p> 
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
         </p>
         <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
-        </p>
+        </p>-->
         
 <h4 dir="auto"><a id="user-content-BigBigGrandG" class="anchor" aria-hidden="true" href="#BigBigGrandG">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
