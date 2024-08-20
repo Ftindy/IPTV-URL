@@ -1,0 +1,189 @@
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
+https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
+https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1
+https://gdcucc.v1.mk/gdcucc/G_CCTV-1-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2
+https://gdcucc.v1.mk/gdcucc/G_CCTV-2-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3
+https://gdcucc.v1.mk/gdcucc/G_CCTV-3-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV-4
+https://gdcucc.v1.mk/gdcucc/G_CCTV-4-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5
+https://gdcucc.v1.mk/gdcucc/G_CCTV-5-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5+
+https://gdcucc.v1.mk/gdcucc/G_CCTV-5PLUS-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6
+https://gdcucc.v1.mk/gdcucc/G_CCTV-6-CQ.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7
+https://gdcucc.v1.mk/gdcucc/G_CCTV-7-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8
+https://gdcucc.v1.mk/gdcucc/G_CCTV-8-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9
+https://gdcucc.v1.mk/gdcucc/G_CCTV-9-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-10
+https://gdcucc.v1.mk/gdcucc/G_CCTV-10-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-11
+https://gdcucc.v1.mk/gdcucc/G_CCTV-11-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12
+https://gdcucc.v1.mk/gdcucc/G_CCTV-12-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-13
+https://gdcucc.v1.mk/gdcucc/G_CCTV-13-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-14
+https://gdcucc.v1.mk/gdcucc/G_CCTV-14-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-15
+https://gdcucc.v1.mk/gdcucc/G_CCTV-15-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-16
+https://gdcucc.v1.mk/gdcucc/G_CCTV-16-CQ.m3u8
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17
+https://gdcucc.v1.mk/gdcucc/G_CCTV-17-CQ.m3u8
+#EXTINF:-1,tvg-id="news" tvg-name="news" tvg-logo="https://epg.v1.mk/logo/news.png" group-title="央视",CCTV-NEWS
+https://gdcucc.v1.mk/gdcucc/G_CCTV-NEWS.m3u8
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东",广东卫视
+https://gdcucc.v1.mk/gdcucc/G_GUANGDONG-CQ.m3u8
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
+https://gdcucc.v1.mk/gdcucc/G_JIANGSU-CQ.m3u8
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
+https://gdcucc.v1.mk/gdcucc/G_ZHEJIANG-CQ.m3u8
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
+https://gdcucc.v1.mk/gdcucc/G_HUNAN-CQ.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
+https://gdcucc.v1.mk/gdcucc/G_DONGFANG-CQ.m3u8
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
+https://gdcucc.v1.mk/gdcucc/G_BEIJING-CQ.m3u8
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
+https://gdcucc.v1.mk/gdcucc/G_SHENZHEN-CQ.m3u8
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视
+https://gdcucc.v1.mk/gdcucc/G_LIAONING-CQ.m3u8
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视
+https://gdcucc.v1.mk/gdcucc/G_ANHUI-CQ.m3u8
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视
+https://gdcucc.v1.mk/gdcucc/G_SHANDONG-CQ.m3u8
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
+https://gdcucc.v1.mk/gdcucc/G_HEILONGJIANG-CQ.m3u8
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
+https://gdcucc.v1.mk/gdcucc/G_TIANJIN-CQ.m3u8
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
+https://gdcucc.v1.mk/gdcucc/G_GUANGXI-HQ.m3u8
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
+https://gdcucc.v1.mk/gdcucc/G_DONGNAN-CQ.m3u8
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视
+https://gdcucc.v1.mk/gdcucc/G_GANSU-HQ.m3u8
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州",贵州卫视
+https://gdcucc.v1.mk/gdcucc/G_GUIZHOU-CQ.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="海南",海南卫视
+https://gdcucc.v1.mk/gdcucc/G_HAINAN-HQ.m3u8
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视
+https://gdcucc.v1.mk/gdcucc/G_HEBEI-CQ.m3u8
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南",河南卫视
+https://gdcucc.v1.mk/gdcucc/G_HENAN-CQ.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
+https://gdcucc.v1.mk/gdcucc/G_HUBEI-CQ.m3u8
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视
+https://gdcucc.v1.mk/gdcucc/G_JILIN-CQ.m3u8
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
+https://gdcucc.v1.mk/gdcucc/G_JIANGXI-CQ.m3u8
+#EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.v1.mk/logo/康巴卫视.png" group-title="卫视",康巴卫视
+https://gdcucc.v1.mk/gdcucc/G_KANGBA.m3u8
+#EXTINF:-1,tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://epg.v1.mk/logo/安多卫视.png" group-title="卫视",安多卫视
+https://gdcucc.v1.mk/gdcucc/G_ANDUO.m3u8
+#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
+https://gdcucc.v1.mk/gdcucc/G_BINGTUAN.m3u8
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://gdcucc.v1.mk/gdcucc/G_NEIMENGGU.m3u8
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://gdcucc.v1.mk/gdcucc/G_NINGXIA.m3u8
+#EXTINF:-1,tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://epg.v1.mk/logo/农林卫视.png" group-title="卫视",农林卫视
+https://gdcucc.v1.mk/gdcucc/G_NONGLIN.m3u8
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
+https://gdcucc.v1.mk/gdcucc/G_SANSHA-HQ.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="陕西",陕西卫视
+https://gdcucc.v1.mk/gdcucc/G_SHANXI-HQ.m3u8
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.v1.mk/logo/上海纪实.png" group-title="上海",上海纪实
+https://gdcucc.v1.mk/gdcucc/G_SHANGHAIJS-HD.m3u8
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川",四川卫视
+https://gdcucc.v1.mk/gdcucc/G_SICHUAN-CQ.m3u8
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
+https://gdcucc.v1.mk/gdcucc/G_XIZANG.m3u8
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
+https://gdcucc.v1.mk/gdcucc/G_XINJIANG.m3u8
+#EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="卫视",延边卫视
+https://gdcucc.v1.mk/gdcucc/G_YANBIAN.m3u8
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="云南",云南卫视
+https://gdcucc.v1.mk/gdcucc/G_YUNNAN-CQ.m3u8
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
+https://gdcucc.v1.mk/gdcucc/G_CHONGQING-CQ.m3u8
+#EXTINF:-1,tvg-id="BTV北京卫视" tvg-name="BTV北京卫视" tvg-logo="https://epg.v1.mk/logo/BTV北京卫视.png" group-title="北京",北京奥运纪实
+https://gdcucc.v1.mk/gdcucc/G_BEIJINGJS-CQ.m3u8
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="其他",家庭理财
+https://gdcucc.v1.mk/gdcucc/G_JIATINGLC.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
+https://gdcucc.v1.mk/gdcucc/G_JINYING.m3u8
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+https://gdcucc.v1.mk/gdcucc/G_KAKU.m3u8
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="其他",女性时尚
+https://gdcucc.v1.mk/gdcucc/G_NVXINGSS-CQ.m3u8
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通" tvg-logo="https://epg.v1.mk/logo/炫动卡通.png" group-title="其他",炫动卡通
+https://gdcucc.v1.mk/gdcucc/G_XUANDONG.m3u8
+#EXTINF:-1,tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="其他",优漫卡通
+https://gdcucc.v1.mk/gdcucc/G_YOUMAN.m3u8
+#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV-1
+https://gdcucc.v1.mk/gdcucc/G_CETV-1-HQ.m3u8
+#EXTINF:-1,tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="其他",CETV-2
+https://gdcucc.v1.mk/gdcucc/G_CETV-2.m3u8
+#EXTINF:-1,tvg-id="CETV3" tvg-name="CETV3" tvg-logo="https://epg.v1.mk/logo/CETV3.png" group-title="其他",CETV-3
+https://gdcucc.v1.mk/gdcucc/G_CETV-3.m3u8
+#EXTINF:-1,tvg-id="cetv4" tvg-name="cetv4" tvg-logo="https://epg.v1.mk/logo/cetv4.png" group-title="其他",CETV-4
+https://gdcucc.v1.mk/gdcucc/G_CETV-4.m3u8
+#EXTINF:-1,tvg-id="中华美食" tvg-name="中华美食" tvg-logo="https://epg.v1.mk/logo/中华美食.png" group-title="其他",中华美食
+https://gdcucc.v1.mk/gdcucc/G_ZHONGHUAMS.m3u8
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.v1.mk/logo/天元围棋.png" group-title="其他",天元围棋
+https://gdcucc.v1.mk/gdcucc/G_TIANYUANWQ.m3u8
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="青海",青海卫视
+https://gdcucc.v1.mk/gdcucc/G_QINGHAI.m3u8
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
+https://gdcucc.v1.mk/gdcucc/G_XIAMEN.m3u8
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.v1.mk/logo/早期教育.png" group-title="其他",早期教育
+https://gdcucc.v1.mk/gdcucc/G_CETV-ZQJY-CQ.m3u8
+#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="其他",国学
+https://gdcucc.v1.mk/gdcucc/G_GUOXUE.m3u8
+#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="山东",山东教育电视台
+https://gdcucc.v1.mk/gdcucc/G_SDETV.m3u8
+#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
+https://gdcucc.v1.mk/gdcucc/G_JIAJIA.m3u8
+#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.v1.mk/logo/发现之旅.png" group-title="其他",发现之旅
+https://gdcucc.v1.mk/gdcucc/G_FAXIANZL.m3u8
+#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.v1.mk/logo/老故事.png" group-title="其他",老故事
+https://gdcucc.v1.mk/gdcucc/G_LAOGUSHI.m3u8
+#EXTINF:-1,tvg-id="cgtn俄语" tvg-name="cgtn俄语" tvg-logo="https://epg.v1.mk/logo/cgtn俄语.png" group-title="央视",CGTN俄语频道
+https://gdcucc.v1.mk/gdcucc/G_CGTN-PYCCNN.m3u8
+#EXTINF:-1,tvg-id="cgtn西班牙语" tvg-name="cgtn西班牙语" tvg-logo="https://epg.v1.mk/logo/cgtn西班牙语.png" group-title="央视",CGTN西班牙语频道
+https://gdcucc.v1.mk/gdcucc/G_CGTN-ESPANOL.m3u8
+#EXTINF:-1,tvg-id="cgtn法语" tvg-name="cgtn法语" tvg-logo="https://epg.v1.mk/logo/cgtn法语.png" group-title="央视",CGTN法语频道
+https://gdcucc.v1.mk/gdcucc/G_CGTN-FRANCAIS.m3u8
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CGTN阿拉伯语.png" group-title="央视",CGTN阿拉伯语
+https://gdcucc.v1.mk/gdcucc/G_CGTN_A.m3u8
+#EXTINF:-1,tvg-id="长城精品" tvg-name="长城精品" tvg-logo="https://epg.v1.mk/logo/长城精品.png" group-title="其他",长颈鹿-云游动物园
+https://gdcucc.v1.mk/gdcucc/G_ZOO-201.m3u8
+#EXTINF:-1,tvg-id="冰火" tvg-name="冰火" tvg-logo="https://epg.v1.mk/logo/冰火.png" group-title="其他",火烈鸟-云游动物园
+https://gdcucc.v1.mk/gdcucc/G_ZOO-401.m3u8
+#EXTINF:-1,tvg-id="cctv-老故事" tvg-name="cctv-老故事" tvg-logo="https://epg.v1.mk/logo/cctv-老故事.png" group-title="其他",老虎-云游动物园
+https://gdcucc.v1.mk/gdcucc/G_ZOO-501.m3u8
+#EXTINF:-1,tvg-id="bestv全球大片" tvg-name="bestv全球大片" tvg-logo="https://epg.v1.mk/logo/bestv全球大片.png" group-title="其他",大象-云游动物园
+https://gdcucc.v1.mk/gdcucc/G_ZOO-102.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",斑马-云游动物园
+https://gdcucc.v1.mk/gdcucc/G_ZOO-801.m3u8
+#EXTINF:-1,tvg-id="未知频道" tvg-name="未知频道" tvg-logo="https://epg.v1.mk/logo/未知频道.png" group-title="其他",狮子-云游动物园
+https://gdcucc.v1.mk/gdcucc/G_ZOO-901.m3u8
+#EXTINF:-1,tvg-id="徐闻综合" tvg-name="徐闻综合" tvg-logo="https://epg.v1.mk/logo/徐闻综合.png" group-title="其他",徐闻综合
+https://gdcucc.v1.mk/gdcucc/zanjiang01.m3u8
+#EXTINF:-1,tvg-id="梅州1套" tvg-name="梅州1套" tvg-logo="https://epg.v1.mk/logo/梅州1套.png" group-title="其他",梅州综合
+https://gdcucc.v1.mk/gdcucc/meizhou1.m3u8
+#EXTINF:-1,tvg-id="客家生活" tvg-name="客家生活" tvg-logo="https://epg.v1.mk/logo/客家生活.png" group-title="其他",客家生活
+https://gdcucc.v1.mk/gdcucc/meizhou2.m3u8
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",阳江-1
+https://gdcucc.v1.mk/gdcucc/yangjiang1.m3u8
+#EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="其他",阳江-2
+https://gdcucc.v1.mk/gdcucc/yangjiang2.m3u8
