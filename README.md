@@ -8,7 +8,8 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="css/primer.css">
 </head>
 <body>
-    <h1>建议直接部署Docker观看数百频道：<a href="https://t.me/feiyangofficalchannel/922">点击查看</a></h1>
+    <h1>建议直接部署Docker观看数百频道：<a href="https://t.me/feiyangofficalchannel/1145">点击查看</a></h1>
+    <h1>115蓝光4K原盘资源内部群：<a href="https://115.metshop.top">点击查看</a></h1>
     <h1>各种AI、电视伴侣、流媒体账号，家庭影音设备推荐：<a href="https://nfvideo.cc">点击上车</a></h1>
     <h1>各种流媒体账号合租，ChatGPT、绘图AI：<a href="https://universalbus.cc">点击上车</a></h1>
      <h4 dir="auto"><a id="user-content-ftindy" class="anchor" aria-hidden="true" href="#ftindy">
