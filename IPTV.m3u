@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1,tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="其他",纯享4K

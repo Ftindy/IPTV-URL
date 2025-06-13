@@ -7,10 +7,10 @@ http://159.75.85.63:5679/cctv4k.php
 https://live.goodiptv.club/aishang/cctv164k
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K
 https://live.goodiptv.club/aishang/as4k
-#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8
-#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="4K60PSDR-H264-AAC测试" tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/index.m3u8
+#EXTINF:-1,tvg-id="4K60PHLG-HEVC-EAC3测试" tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/index.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合 
 https://live.goodiptv.club/aishang/cctv1hd
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经 

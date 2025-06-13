@@ -20,8 +20,8 @@
             </svg>
         </a>Ftindy精选直播源
         </h4>
-        <p dir="auto"><code>https://live.freetv.top/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
-        <p dir="auto"><code>https://live.freetv.top/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
+        <p dir="auto"><code>https://www.goodiptv.club/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
+        <p dir="auto"><code>https://www.goodiptv.club/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
         <p dir="auto"><code>https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
         </p>
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili生活
